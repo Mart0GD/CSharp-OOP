@@ -1,0 +1,15 @@
+D:\Programming\SoftUni OOP\exams\bin\Debug\net6.0\EDriveRent.exe
+D:\Programming\SoftUni OOP\exams\bin\Debug\net6.0\EDriveRent.deps.json
+D:\Programming\SoftUni OOP\exams\bin\Debug\net6.0\EDriveRent.runtimeconfig.json
+D:\Programming\SoftUni OOP\exams\bin\Debug\net6.0\EDriveRent.dll
+D:\Programming\SoftUni OOP\exams\bin\Debug\net6.0\EDriveRent.pdb
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\EDriveRent.csproj.AssemblyReference.cache
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\EDriveRent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\EDriveRent.AssemblyInfoInputs.cache
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\EDriveRent.AssemblyInfo.cs
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\EDriveRent.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\EDriveRent.dll
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\refint\EDriveRent.dll
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\EDriveRent.pdb
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\EDriveRent.genruntimeconfig.cache
+D:\Programming\SoftUni OOP\exams\obj\Debug\net6.0\ref\EDriveRent.dll

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\Robots\DomesticAssistant - Copy.cs~RF17412a21.TMP" />
+    <None Remove="Models\SpecializedArm.cs~RF170a85ba.TMP" />
+    <None Remove="Repositories\RobotRepository.cs~RF17149867.TMP" />
+  </ItemGroup>
+
+</Project>

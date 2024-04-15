@@ -1,0 +1,14 @@
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\bin\Debug\netcoreapp3.1\ChristmasPastryShop.exe
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\bin\Debug\netcoreapp3.1\ChristmasPastryShop.deps.json
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.json
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\bin\Debug\netcoreapp3.1\ChristmasPastryShop.runtimeconfig.dev.json
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\bin\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\bin\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.AssemblyReference.cache
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\obj\Debug\netcoreapp3.1\ChristmasPastryShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfoInputs.cache
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\obj\Debug\netcoreapp3.1\ChristmasPastryShop.AssemblyInfo.cs
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\obj\Debug\netcoreapp3.1\ChristmasPastryShop.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\obj\Debug\netcoreapp3.1\ChristmasPastryShop.dll
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\obj\Debug\netcoreapp3.1\ChristmasPastryShop.pdb
+D:\Programming\SoftUni OOP\exams\Exam 4\Main\obj\Debug\netcoreapp3.1\ChristmasPastryShop.genruntimeconfig.cache

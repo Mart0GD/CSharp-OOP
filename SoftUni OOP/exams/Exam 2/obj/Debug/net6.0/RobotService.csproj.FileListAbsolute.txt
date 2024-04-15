@@ -1,0 +1,15 @@
+D:\Programming\SoftUni OOP\exams\Exam 2\bin\Debug\net6.0\RobotService.exe
+D:\Programming\SoftUni OOP\exams\Exam 2\bin\Debug\net6.0\RobotService.deps.json
+D:\Programming\SoftUni OOP\exams\Exam 2\bin\Debug\net6.0\RobotService.runtimeconfig.json
+D:\Programming\SoftUni OOP\exams\Exam 2\bin\Debug\net6.0\RobotService.dll
+D:\Programming\SoftUni OOP\exams\Exam 2\bin\Debug\net6.0\RobotService.pdb
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\RobotService.dll
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\refint\RobotService.dll
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\RobotService.pdb
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+D:\Programming\SoftUni OOP\exams\Exam 2\obj\Debug\net6.0\ref\RobotService.dll

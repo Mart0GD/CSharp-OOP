@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\Rooms\DoubleBed.cs~RF21db52b7.TMP" />
+    <None Remove="Models\Rooms\Room.cs~RF21ea62eb.TMP" />
+    <None Remove="Models\Rooms\Studio.cs~RF21dc0175.TMP" />
+  </ItemGroup>
+
+</Project>

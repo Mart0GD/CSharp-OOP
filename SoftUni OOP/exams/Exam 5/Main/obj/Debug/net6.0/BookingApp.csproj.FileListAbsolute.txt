@@ -1,0 +1,15 @@
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\bin\Debug\net6.0\BookingApp.exe
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\bin\Debug\net6.0\BookingApp.deps.json
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\bin\Debug\net6.0\BookingApp.runtimeconfig.json
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\bin\Debug\net6.0\BookingApp.dll
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\bin\Debug\net6.0\BookingApp.pdb
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\BookingApp.csproj.AssemblyReference.cache
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\BookingApp.AssemblyInfoInputs.cache
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\BookingApp.AssemblyInfo.cs
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\BookingApp.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\BookingApp.dll
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\refint\BookingApp.dll
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\BookingApp.pdb
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\BookingApp.genruntimeconfig.cache
+D:\Programming\SoftUni OOP\exams\Exam 5\Main\obj\Debug\net6.0\ref\BookingApp.dll

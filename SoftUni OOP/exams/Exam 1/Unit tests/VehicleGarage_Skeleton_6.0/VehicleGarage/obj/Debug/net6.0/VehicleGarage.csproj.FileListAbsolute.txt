@@ -1,0 +1,15 @@
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.exe
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.deps.json
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.runtimeconfig.json
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.dll
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\bin\Debug\net6.0\VehicleGarage.pdb
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.csproj.AssemblyReference.cache
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.AssemblyInfoInputs.cache
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.AssemblyInfo.cs
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.csproj.CoreCompileInputs.cache
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.dll
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\refint\VehicleGarage.dll
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.pdb
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\VehicleGarage.genruntimeconfig.cache
+D:\Programming\SoftUni OOP\exams\Unit tests\VehicleGarage_Skeleton_6.0\VehicleGarage\obj\Debug\net6.0\ref\VehicleGarage.dll
