@@ -13,11 +13,31 @@ This repository documents my journey through SoftUni's C# OOP course. Here, I re
 
 ## Course Overview
 
-- **Module 1: Introduction to OOP**
-- **Module 2: Classes and Objects**
-- **Module 3: Inheritance and Polymorphism**
-- **Module 4: Encapsulation**
+- **Module 1: Inheritance**
+- **Module 2: Exercise: Inheritance**
+- **Module 3: Encapsulation**
+- **Module 4: Exercise: Encapsulation**
+- **Module 5: Interfaces and Abstraction**
+- **Module 5: Exercise: Interfaces and Abstraction**
+- **Module 5: Polymorphism**
+- **Module 5: Exercise: Polymorphism**
+- **Module 5: Exception Handling**
+- **Module 5: Debugging Techniques**
+- **Module 5: SOLID**
+- **Module 5: Exercise: SOLID**
+- **Module 5: Reflection and Attributes**
+- **Module 5: Exercise: Reflection and Attributes**
+- **Module 5: Unit Testing**
+- **Module 5: Exercise: Unit Testing**
+- **Module 5: Mocking and Test Driven Development**
+- **Module 5: Exercise: Mocking and Test Driven Development**
+- **Module 5: Design Patterns**
+- **Module 5: Exercise: Design Patterns**
 - **Module 5: Exam Preparation**
+- **Module 5: Exam Preparation**
+- **Module 5: Workshop**
+- **Module 5: Workshop**
+- **Module 5: Regular Exam**
 
 ## How to Use
 
